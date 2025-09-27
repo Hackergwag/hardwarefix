@@ -20,7 +20,7 @@ Iphonefix: <br/>
 <br />
 <br />
 Laptopfix:  <br/>
-(https://www.mediafire.com/file/4e9qapxkmpsdr0h/IMG_0103.mp4/file)
+<img src=https://imgur.com/cvppYWo.png height="80%" width="80%" alt="Hardwarefix"/>
 </p>
 
 <!--
